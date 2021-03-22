@@ -2,7 +2,7 @@
 
 Code for paper "CoANE: Modeling Context Co-occurrence forAttributed Network Embedding". We provide the pytorch implement of the CoANE algorithm including Context Generation, Embedding learning for contexts and proximities preservation of two likelihoods for the attributed network embedding task.
 
-![CoANE](https://github.com/ICHRick/CoANE/blob/master/CoANE_framework.JPG)
+![CoANE](https://github.com/ICHproject/CoANE/blob/main/CoANE_framework.JPG)
 
 
 ## Requirements
