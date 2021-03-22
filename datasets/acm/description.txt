@@ -1,0 +1,7 @@
+This is a paper network from the ACM dataset.
+There is an edge between two papers if they are written
+by same author. Paper features are the bag-of-words of the
+keywords. We select papers published in KDD, SIGMOD,
+SIGCOMM, MobiCOMM and divide the papers into three
+classes (database, wireless communication, data mining) by
+their research area
