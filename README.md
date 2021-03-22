@@ -45,7 +45,11 @@ Each line is as follows (id term is not included):
 ### Run
 To  quickly run CoANE with default setting, execute the following command for link prediction evaluation for Cora Data:
 ```
-python main.py
+python main_CoANE.py
+```
+or (for top-k version)
+```
+python main_CoANE_topk.py
 ```
 
 Check hyperparameters of CoANE:
@@ -73,8 +77,4 @@ Check hyperparameters of CoANE:
   --val_frac        Split val data ratio
   --test_frac       Split test data ratio
   --subsample_rate  Subsample rate
-```
-Or run the following code:
-```
-python main.py -h
 ```
